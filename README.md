@@ -50,6 +50,8 @@ Visualization of the *Carbon Dioxide* emissions from the world bank in order to 
 
 - How emissions increased through history, for each country:
 
-    
+    ![image](charts/top-5-countries'-emissions-throughout-history.png)
 
-- Emissions vs GDP: the relation between emissions and GDP
+- Emissions vs GDP: the relation between emissions and GDP:
+
+    ![image](charts/emissions-vs-gdp.png)
