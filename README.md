@@ -4,6 +4,8 @@ Visualization of the *Carbon Dioxide* emissions from the world bank in order to 
 
 ---
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Reslan-Tinawi/Who-is-responsible-for-climate-change/main?filepath=who-is-responsible-for-climate-change.ipynb)
+
 ## Charts
 
 - Global emissions throught the years:
