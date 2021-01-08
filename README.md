@@ -1,6 +1,6 @@
 # Who is responsible for climate change?
 
-Visualization of the *Carbon Dioxide* emissions from the world bank in order to understand the climate change.
+Visualization of the *Carbon Dioxide* emissions from the world bank in order to understand who's responsible for the climate change.
 
 ---
 
